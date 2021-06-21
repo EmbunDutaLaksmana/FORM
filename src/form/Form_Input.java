@@ -11,9 +11,7 @@ package form;
  */
 public class Form_Input extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Form_Input
-     */
+    String Nama,NIM,JKelamin,Angkatan,Jurusan;
     public Form_Input() {
         initComponents();
     }
